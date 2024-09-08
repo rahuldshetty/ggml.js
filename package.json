@@ -1,6 +1,6 @@
 {
   "name": "llm.js",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Run LLM models directly on browser.",
   "type": "module",
   "main": "dist/llm.js",
